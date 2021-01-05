@@ -2,7 +2,8 @@
 This repository consists of the BidulaxStudio's GitHub Page code !
 
 ### Where I can see the BidulaxStudio's GitHub Page ?
-Go to `https://bidulaxstudio.github.io` !
+- `https://site.bidulaxstudio.eu`
+- `https://bidulaxstudio.github.io`
 
 ### Informations
 - Made by **BidulaxStudio**
