@@ -1,2 +1,2 @@
-# bidulaxstudio.github.io
+# BidulaxStudio
 The BidulaxStudio website !
